@@ -1,0 +1,5 @@
+>> instalar pydantic-settings
+  configurar url do banco de dados
+
+>> Criar arquivo de configuração do banco de dados
+
